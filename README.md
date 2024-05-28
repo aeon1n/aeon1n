@@ -1,7 +1,6 @@
-<h1>Hi 👋, I'm Marcel</h1>
-
 # 💫 About Me:
 
+- 👋 Hi, I'm Marcel
 - 🔭 I’m currently working on **my skills**
 - 🌱 I’m currently learning **Remix Framework, TDD**
 - 💬 Ask me about **Motorsports & Tech-Stuff**
