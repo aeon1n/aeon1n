@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Marcel</h1>
-<h2>About Me:</h2>
+
+#About Me:
 
 - 🔭 I’m currently working on **my skills**
 - 🌱 I’m currently learning **Remix Framework, TDD**
