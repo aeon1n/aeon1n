@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Marcel</h1>
-<h3 align="center">About Me:</h3>
+<h1>Hi 👋, I'm Marcel</h1>
+<h2>About Me:</h2>
 
 - 🔭 I’m currently working on **my skills**
-
 - 🌱 I’m currently learning **Remix Framework, TDD**
-
 - 💬 Ask me about **Motorsports & Tech-Stuff**
-
 - 📫 How to reach me **bialas@mbialas.de**
-
 - ⚡ Fun fact **I'm a motorsport fanatic who used to play drums and trumpet in a band.**
 
 <h3 align="left">Connect with me:</h3>
