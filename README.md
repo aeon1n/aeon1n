@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **my Skills**
 - 🌱 I’m currently learning about **Remix Framework, TDD**
 - 💬 Ask me about **Motorsports & Tech-Stuff**
-- 📫 How to reach me: E-Mail **bialas@mbialas.de**
+- 📫 How to reach me: **bialas@mbialas.de**
 - ⚡ Fun fact: **I'm a motorsport fanatic who used to play drums and trumpet in a band.**
 
 <h3 align="left">Connect with me:</h3>
