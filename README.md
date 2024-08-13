@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Marcel
 - 🔭 I’m currently working on **my Skills**
-- 🌱 I’m currently learning about **Remix Framework, TDD**
+- 🌱 I’m currently learning about **Remix Framework, Google Cloud**
 - 💬 Ask me about **Motorsports & Tech-Stuff**
 - 📫 How to reach me: **bialas@mbialas.de**
 - ⚡ Fun fact: **I'm a motorsport fanatic who used to play drums and trumpet in a band.**
