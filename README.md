@@ -4,13 +4,12 @@
 - 🔭 I’m currently working on **my Skills**
 - 🌱 I’m currently learning about **C# && DevOps**
 - 💬 Ask me about **Motorsports & Tech-Stuff**
-- 📫 How to reach me: **bialas@mbialas.de**
+- 📫 How to reach me: **aeon1n@proton.me**
 - ⚡ Fun fact: **I'm a motorsport fanatic who used to play drums and trumpet in a band.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcel-bialas-a4374a28b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcel-bialas-a4374a28b/" height="30" width="40" /></a>
-<a href="https://instagram.com/marcelbialas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcelbialas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
