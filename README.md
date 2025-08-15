@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Marcel
 - 🔭 I’m currently working on **my Skills**
-- 🌱 I’m currently learning about **C# && DevOps**
+- 🌱 I’m currently learning about **Golang**
 - 💬 Ask me about **Motorsports & Tech-Stuff**
 - 📫 How to reach me: **aeon1n@proton.me**
 - ⚡ Fun fact: **I'm a motorsport fanatic who used to play drums and trumpet in a band.**
